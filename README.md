@@ -3,7 +3,9 @@ regarding cash payment and online payment (eg. UPI payment) using R
 programming language. The analysis of data regarding online and cash
 payments is carried out by the knowledge from the research papers
 studied, to forecast the future values with the help of ARIMA model.
-PACKAGES: library(forecast)
+
+Dependencies:
+library(forecast)
 
 First of all set a work directory for your environment
 
